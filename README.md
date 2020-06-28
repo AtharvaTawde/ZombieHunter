@@ -1,8 +1,9 @@
 # Zombie Hunter
 
 
-## Zombie Hunter, the best new, action-packed game out there!
+## The best new, zombie-themed, action-packed game out there!
 
+```
 Running:
 Once you have acquired the .ZIP file, right-click on it and press EXTRACT ALL (IF YOU DON'T, THE CONSEQUENCES WILL BE DIRE!).
 After extracting the .ZIP file, open the newly generated folder and navigate past all of the exciting images and straight to the
