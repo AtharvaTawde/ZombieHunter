@@ -22,5 +22,5 @@ Beat the zombie army by destroying the Generator, which will result in you winni
 creatures) to get Score, which you can then use to purchase better upgrades and lives. 
 
 ```
-I know nobody reads a README file. 
+The current zip file only executes successfully in Windows, since it is packed as an EXECUTABLE (.exe)
 ```
