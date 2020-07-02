@@ -1,6 +1,6 @@
 # Zombie Hunter (Windows Edition)
 
- 
+
 ### An Action-Packed, Zombiefied Adventure!
 
 This is the `README.txt` file for Zombie Hunter, the best new game out there!
@@ -20,12 +20,7 @@ Just press space bar to fire, Z to buy lives (for 50 Score, that is), X to doubl
 and the Up and Down arrow keys to move Joe, well, Up and Down. That's pretty much it!
 
 Objective:
-Beat the zombie army by destroying the Generator, which will result in you winning the day! You can kill Zombies (and other
-<<<<<<< HEAD
-creatures) to get Score, which you can then use to purchase better upgrades and lives.
-=======
-creatures) to get Score, which you can then use to purchase better upgrades and lives. 
+Beat the zombie army by destroying the Generator, which will result in you winning the day! You can kill Zombies (and other creatures) to get Score, which you can then use to purchase better upgrades and lives.
 
-The current zip file only executes successfully in Windows, since it is packed as an EXECUTABLE (.exe)
+The current zip file only executes successfully in Windows, since it is packed as an EXECUTABLE (.exe).
 Of course, it's buggy! That's the fun of it!
->>>>>>> 9116188b12876e2931b7f2d5f491d9031072875f
