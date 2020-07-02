@@ -22,3 +22,4 @@ Beat the zombie army by destroying the Generator, which will result in you winni
 creatures) to get Score, which you can then use to purchase better upgrades and lives. 
 
 The current zip file only executes successfully in Windows, since it is packed as an EXECUTABLE (.exe)
+Of course, it's buggy! That's the fun of it!
